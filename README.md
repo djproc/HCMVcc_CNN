@@ -1,2 +1,2 @@
 "Getting started:
-Open the Generate_ID_Coords and follow the instructions there" 
+Open the GenerateIDs_Drawlinescans file and follow the instructions there" 
